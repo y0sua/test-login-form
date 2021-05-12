@@ -29,6 +29,8 @@ The validation errors have to be displayed after submit button is pressed and th
 
 Follow best practices as much as possible, focus on the quality and accuracy of the task.
 
+Please, provide a link to your own repository when the task is ready.
+
 ### Any questions?
 
 If you have any questions or suggestions related to the task, please submit an issue.
