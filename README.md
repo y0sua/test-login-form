@@ -15,7 +15,7 @@ The main purpose is to see your code structure and approach in general.
 Validation schema:
  - `Email` is required and has to be matched with email validation rules;
  - `Password` is required;
- - `Remember me` is `boolean` and can be submitted or skipped.
+ - `Remember me` checkbox is `boolean` and optional. It can be submitted or skipped.
 
 The validation errors have to be displayed after submit button is pressed and then a focused field has to be revalidated on every input change.
 
