@@ -24,7 +24,7 @@ The validation errors have to be displayed after submit button is pressed and th
 ### Requirements
 
 - The required stack: `React`, `SCSS`. Other tools are up to you;
-- Create a markup according to the mockup, the layout should be responsive;
+- Create a markup according to the mockup, the layout should be responsive until `320x568` screen resolution;
 - No unnecessary things in the final code like commented code, debug logs, etc.
 
 Follow best practices as much as possible, focus on the quality and accuracy of the task.
